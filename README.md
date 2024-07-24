@@ -2,6 +2,9 @@
 
 Welcome to the SQL Music Store Data Analysis project! This repository contains a comprehensive analysis of a digital music store's data, providing valuable business insights through a series of carefully constructed SQL queries. The project is organized into three sets of questions, ranging from easy to advanced, demonstrating different levels of SQL proficiency and practical applications.
 
+![Digital music store](https://github.com/user-attachments/assets/479d35c6-18c0-46d4-a6fd-4008c538f4da)
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
